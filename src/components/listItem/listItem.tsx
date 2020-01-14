@@ -35,11 +35,9 @@ export const StyledListitemLink = styled(Link)`
 export const ListItem: FC<IProps> = ({ job }) => {
     return (
         <StyledListItem>
-            <BrowserRouter>
-                <StyledListitemLink to={`/${job.id}`}>
-                    {job.title}
-                </StyledListitemLink>
-            </BrowserRouter>
+            <StyledListitemLink to={`/${job.id}`}>
+                {job.title}
+            </StyledListitemLink>
         </StyledListItem>
     );
 };
