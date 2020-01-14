@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ListItem /> Item of list renders correctly 1`] = `
+<li
+  className="sc-bdVaJa ekTLhB"
+>
+  <a
+    className="sc-bwzfXH hCIMcE"
+    href="/1"
+    onClick={[Function]}
+  >
+    Frontend Developer
+  </a>
+</li>
+`;

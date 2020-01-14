@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Frontend Developer",
+        "description": "Comfortable with modern JS stack, experience with React.",
+        "employment_type": "full_time",
+        "location": "Berlin , Germany"
+    },
+    {
+        "id": 2,
+        "title": "PHP Developer",
+        "description": "Comfortable with modern PHP stack, experience with Laravel.",
+        "employment_type": "part_time",
+        "location": "Barcelona , Spain"
+    },
+    {
+        "id": 3,
+        "title": "(Senior) Key Account Manager (m/w/d) B2B",
+        "description": "Willst Du Unternehmen dabei helfen, Ihre größte Herausforderung zu meistern und einen positiven Impact auf das Leben Tausender Menschen haben? Join the Heyvolution!",
+        "employment_type": "full_time",
+        "location": "Tbilisi, Georgia"
+    }
+]

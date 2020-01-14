@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<List /> List renders correctly 1`] = `
+<ul
+  className="sc-htpNat dhWqyy"
+>
+  <li
+    className="sc-bdVaJa ekTLhB"
+  >
+    <a
+      className="sc-bwzfXH hCIMcE"
+      href="/1"
+      onClick={[Function]}
+    >
+      Frontend Developer
+    </a>
+  </li>
+  <li
+    className="sc-bdVaJa ekTLhB"
+  >
+    <a
+      className="sc-bwzfXH hCIMcE"
+      href="/2"
+      onClick={[Function]}
+    >
+      PHP Developer
+    </a>
+  </li>
+  <li
+    className="sc-bdVaJa ekTLhB"
+  >
+    <a
+      className="sc-bwzfXH hCIMcE"
+      href="/3"
+      onClick={[Function]}
+    >
+      (Senior) Key Account Manager (m/w/d) B2B
+    </a>
+  </li>
+</ul>
+`;
